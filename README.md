@@ -19,6 +19,3 @@ You can run it like this.
 python src/generate_art.py -n 32 --collection "foo"
 ```
 
-It should generate an image like this:
-
-![example_image](output/CyberLines/CyberLines_fruck_0.png)
